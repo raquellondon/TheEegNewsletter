@@ -7,4 +7,8 @@ The newsletter is released every two weeks. <br/>
 [003 - The EEG Newsletter - 09-feb-23](https://github.com/raquellondon/TheEegNewsletter/wiki/003%23-The-EEG-Newsletter)<br/>
 [004 - The EEG Newsletter - 22-feb-23](https://github.com/raquellondon/TheEegNewsletter/wiki/004%23-The-EEG-Newsletter)<br/>
 [005 - The EEG Newsletter - 08-mar-23](https://github.com/raquellondon/TheEegNewsletter/wiki/005%23-The-EEG-Newsletter)<br/>
+[006 - The EEG Newsletter - 23-mar-23](https://github.com/raquellondon/TheEegNewsletter/wiki/006%23-The-EEG-Newsletter)<br/>
+
+
+
 
