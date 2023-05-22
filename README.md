@@ -11,4 +11,4 @@ The newsletter is released every two weeks. <br/>
 [007 - The EEG Newsletter - 05-apr-23](https://github.com/raquellondon/TheEegNewsletter/wiki/007%23-The-EEG-Newsletter)<br/>
 [008 - The EEG Newsletter - 19-apr-23](https://theeegnewsletter.substack.com/p/the-eeg-newsletter-8)<br/>
 [009 - The EEG Newsletter - 05-may-23](https://theeegnewsletter.substack.com/p/the-eeg-newsletter-9)<br/>
-
+[010 - The EEG Newsletter - 20-may-23](https://eegnewsletter.substack.com/p/the-eeg-newsletter-10)<br/>
