@@ -17,4 +17,5 @@ The newsletter is released every two weeks. <br/>
 [013 - The EEG Newsletter - 30-jun-23](https://eegnewsletter.substack.com/p/the-eeg-newsletter-13)<br/>
 [014 - The EEG Newsletter - 14-jul-23](https://eegnewsletter.substack.com/p/14-the-kuramoto-model)<br/>
 [015 - The EEG Newsletter - Ephaptic coupling - 28-jul-23](https://eegnewsletter.substack.com/p/15-ephaptic-coupling)<br/>
+[016 - The EEG Newsletter - EEG events you don't want to miss - 15-aug-23](https://eegnewsletter.substack.com/p/16-eeg-events-you-dont-want-to-miss)<br/>
 
