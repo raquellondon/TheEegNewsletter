@@ -1,7 +1,8 @@
 # The EEG Newsletter
 Welcome to The EEG Newsletter! This is where I share news about events happening in our community of EEG researchers, and other interesting EEG-related information. 
 The newsletter is released every two weeks. <br/>
-
+[019 - The EEG Newsletter - Machine learning for cognitive neuroscience - 23-aug-23](https://eegnewsletter.substack.com/p/19-machine-learning-for-cognitive)<br/>
+[018 - The EEG Newsletter - Scale-free EEG activity - 23-aug-23](https://eegnewsletter.substack.com/p/18-scale-free-eeg-activity)<br/>
 [017 - The EEG Newsletter - How to do (M)EEG research - 23-aug-23](https://eegnewsletter.substack.com/p/17-how-to-do-meeg-research)<br/>
 [016 - The EEG Newsletter - EEG events you don't want to miss - 15-aug-23](https://eegnewsletter.substack.com/p/16-eeg-events-you-dont-want-to-miss)<br/>
 [015 - The EEG Newsletter - Ephaptic coupling - 28-jul-23](https://eegnewsletter.substack.com/p/15-ephaptic-coupling)<br/>
