@@ -1,7 +1,7 @@
 # The EEG Newsletter
 Welcome to The EEG Newsletter! This is where I share news about events happening in our community of EEG researchers, and other interesting EEG-related information. 
 The newsletter is released every two weeks. <br/>
-[020 - The EEG Newsletter - Synthetic EEG data - 10-may-24](https://eegnewsletter.substack.com/p/20-synthetic-eeg-data)<br/>
+[020 - The EEG Newsletter - Synthetic EEG data - 01-may-24](https://eegnewsletter.substack.com/p/20-synthetic-eeg-data)<br/>
 [019 - The EEG Newsletter - Machine learning for cognitive neuroscience - 07-nov-23](https://eegnewsletter.substack.com/p/19-machine-learning-for-cognitive)<br/>
 [018 - The EEG Newsletter - Scale-free EEG activity - 04-oct-23](https://eegnewsletter.substack.com/p/18-scale-free-eeg-activity)<br/>
 [017 - The EEG Newsletter - How to do (M)EEG research - 23-aug-23](https://eegnewsletter.substack.com/p/17-how-to-do-meeg-research)<br/>
