@@ -1,6 +1,5 @@
 # The EEG Newsletter
-Welcome to The EEG Newsletter! This is where I share news about events happening in our community of EEG researchers, and other interesting EEG-related information. 
-The newsletter is released every two weeks. <br/>
+Welcome to The EEG Newsletter! This is where I share news about events happening in our community of EEG researchers, and other interesting EEG-related information.<br/>
 
 [021 - The EEG Newsletter - Prediction markets for #EEGManyLabs - 30-may-24](https://eegnewsletter.substack.com/p/21-prediction-markets-for-eegmanylabs)<br/>
 [020 - The EEG Newsletter - Synthetic EEG data - 01-may-24](https://eegnewsletter.substack.com/p/20-synthetic-eeg-data)<br/>
