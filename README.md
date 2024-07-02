@@ -1,6 +1,6 @@
 # The EEG Newsletter
 Welcome to The EEG Newsletter! This is where I share news about events happening in our community of EEG researchers, and other interesting EEG-related information.<br/>
-
+[022 - The EEG Newsletter - Single-trial EEG analyses - 01-jul-24](https://eegnewsletter.substack.com/p/22-single-trial-eeg-analyses)<br/>
 [021 - The EEG Newsletter - Prediction markets for #EEGManyLabs - 30-may-24](https://eegnewsletter.substack.com/p/21-prediction-markets-for-eegmanylabs)<br/>
 [020 - The EEG Newsletter - Synthetic EEG data - 01-may-24](https://eegnewsletter.substack.com/p/20-synthetic-eeg-data)<br/>
 [019 - The EEG Newsletter - Machine learning for cognitive neuroscience - 07-nov-23](https://eegnewsletter.substack.com/p/19-machine-learning-for-cognitive)<br/>
